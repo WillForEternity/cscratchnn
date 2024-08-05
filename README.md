@@ -23,7 +23,7 @@ To run:
 ./neuralnetwork
 ```
 
-##your results should look something like this:
+## Your results should look something like this:
 
 ![cscratchnn](Output.png)
 
