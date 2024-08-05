@@ -9,7 +9,7 @@ I'd used numpy, keras, and pytorch to implement the simple structure of basic fe
 
 ## How To Run
 
-This one is simple. No packages, no libraries. Just create a directory to store the file, and name your file something like `neuralnetwork.c`. Paste in my code.
+This one is simple. No packages or libraries to pip install. Just create a directory to store the file, and name your file something like `neuralnetwork.c`. Paste in my code.
 
 To compile, cd into the directory, and: 
 
