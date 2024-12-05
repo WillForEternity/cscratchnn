@@ -1,7 +1,7 @@
 # cscratchnn
 A simple, proof of concept neural network in C, mainly for strengthening my mathematical intuition. 
 
-Having just taken a digital logic circuit design class for the second time (and falling in love with it this time), I wanted to test the classic XOR function, known for its very simple nonlinear structure. When graphed, you'll see that it isn't linearly separable.
+Having just taken a digital logic circuit design class (and falling in love with it), I wanted to test the classic XOR function, known for its very simple nonlinear structure. When graphed, you'll see that it isn't linearly separable.
 
 ![cscratchnn](XORnonlinear.png)
 
